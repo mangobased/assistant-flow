@@ -1,0 +1,10 @@
+{
+	"id": "assistant-flow",
+	"name": "Assistant Flow",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Интеллектуальный помощник: анализ заметок и генерация отчетов продуктивности.",
+	"author": "Команда (Участник 1, Участник 2, Участник 3)",
+	"authorUrl": "",
+	"isDesktopOnly": false
+}
